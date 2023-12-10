@@ -1,0 +1,38 @@
+#table{
+    font-size: 30px;
+    margin-left: 40px;
+    color: #F0ECE5;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: #31304D;
+}
+h1{
+    font-size: 50px;
+    margin-left: 100px;
+    margin-top: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #B6BBC4;
+}
+
+h2{
+    font-size: 45px;
+    margin-left: 100px;
+    font-family:'Times New Roman', Times, serif;
+    color: #B6BBC4;
+}
+h3{
+    margin-left: 105px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: #F0ECE5;
+}
+#table1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    margin-left: 105px;
+    color: #B6BBC4;
+}
+
+
+
